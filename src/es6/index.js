@@ -195,7 +195,7 @@ function* helloWorld() { //Generator
         yield 'Hello, '; //Yield saves the state internally
     }
     if (true){
-        yield 'World'; //Second element executed
+        yield 'World'; //Second element executedes
     }
 }
 
@@ -207,3 +207,4 @@ And it will execute the following logic, and so on */
 console.log(generatorHello.next().value); //Hello, 
 console.log(generatorHello.next().value); //World
 console.log(generatorHello.next().value); //Undefined
+
