@@ -58,6 +58,7 @@ console.log(user?.profile?.email); //optional chaining used, so returns undefine
 
 if (user?.profile?.email) {
   //Evaluates if resource exists
+  //Now, it goes to the else because undefined != true
   console.log("Email exists");
 } else {
   console.log("Email doesn't exist");
