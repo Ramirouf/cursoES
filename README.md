@@ -2,6 +2,10 @@
 
 Repo for Platzi's Ecmascript course
 
+# Apuntes de mauricodev
+
+https://www.notion.so/ECMAScript-6-bc7531cbf12d4dc8b028262ae8886a1e
+
 # Apuntes de cristianiniguez
 
 https://github.com/cristianiniguez/curso_ecmascript6
